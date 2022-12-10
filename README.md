@@ -4,8 +4,9 @@
 
 Welcome to my page!
 
-I'm Yeongeon, Student from Dongyang Mirae Univ. currently living in  Seoul, Korea.
+I'm Yeongeon, Student from Dongyang Mirae Univ.
 
+<br>
 
 Here are some ideas to get you started:
 
