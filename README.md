@@ -5,6 +5,9 @@
 Welcome to my page!
 I'm Yeongeon, Student from Dongyang Mirae Univ.  Seoul, Korea, currently living in  Seoul, Korea.
 
+
+<br>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
