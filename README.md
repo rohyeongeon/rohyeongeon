@@ -5,8 +5,6 @@
 Welcome to my page!
 I'm Yeongeon, Student from Dongyang Mirae Univ.  Seoul, Korea, currently living in  Seoul, Korea.
 
-<br>
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -18,6 +16,8 @@ I'm Yeongeon, Student from Dongyang Mirae Univ.  Seoul, Korea, currently living 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </p>
+
+<br>
 
 Here are some ideas to get you started:
 
