@@ -20,6 +20,12 @@ I'm Yeongeon, Student from Dongyang Mirae Univ.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </p>
 
+<h3 align="center">💌 Contact me 💌 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
+</p>
 
 <!---
 rohyeongeon/rohyeongeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
