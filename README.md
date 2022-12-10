@@ -3,9 +3,8 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm yeongeon, Student from Dongyang Mirae Univ.
+I'm Hwan Soo, Professor from Dongyang Mirae Univ.  Seoul, Korea, currently living in  Seoul, Korea.
 
-![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 Here are some ideas to get you started:
 
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 
 
