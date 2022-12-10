@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Hwan Soo, Professor from Dongyang Mirae Univ.  Seoul, Korea, currently living in  Seoul, Korea.
+I'm Yeongeon, Student from Dongyang Mirae Univ.  Seoul, Korea, currently living in  Seoul, Korea.
 
 
 Here are some ideas to get you started:
