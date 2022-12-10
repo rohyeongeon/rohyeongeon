@@ -3,7 +3,9 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Yeongeon, Student from Dongyang Mirae Univ.  Seoul, Korea, currently living in  Seoul, Korea.
+
+I'm Yeongeon, Student from Dongyang Mirae Univ. currently living in  Seoul, Korea.
+
 
 Here are some ideas to get you started:
 
@@ -15,8 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 <br>
 
@@ -30,11 +30,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+  ![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
 </p>
-
-<br>
-
-
 
 <!---
 rohyeongeon/rohyeongeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
