@@ -2,10 +2,11 @@
 
 ### Hi there 👋
 
+<a>
 Welcome to my page!
 
 I'm Yeongeon, Student from Dongyang Mirae Univ.
-<a>
+</a>
 
 <br>
 
@@ -29,6 +30,8 @@ I'm Yeongeon, Student from Dongyang Mirae Univ.
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
 </p>
+
+<br>
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
